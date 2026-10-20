@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+__pycache__/
+dist/
+dist-ssr/
+*.local
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Runtime logs and editor files
+*.log
+.vscode/
+.idea/
+.DS_Store

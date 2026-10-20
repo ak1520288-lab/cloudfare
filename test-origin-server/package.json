@@ -1,0 +1,12 @@
+{
+  "name": "test-origin-server",
+  "version": "1.0.0",
+  "description": "Dummy website used to test the anti-cloudflare proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
